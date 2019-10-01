@@ -1,8 +1,10 @@
 # labs_vr_stylus_sdk has moved !
 
-Hello dear Logitech VR INK developer. In preparation of the official release of our stylus, we have taken the opportunity to refresh and rename our repository, therefore all the information you are looking for is now located in this repo:
+<p align="center">
+<img src="moved.png" alt="We have moved">
+</p>
 
-[VR INK SDK](https://github.com/Logitech/vr_ink_sdk)
+Hello dear Logitech VR INK developer. In preparation of the official release of our stylus, we have taken the opportunity to refresh and rename our repository, therefore all the information you are looking for is now located in this repo: **[VR INK SDK](https://github.com/Logitech/vr_ink_sdk)**
 
 
 # more info about VR Ink
